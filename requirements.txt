@@ -1,0 +1,6 @@
+openai
+streamlit
+YouTubeTranscriptApi
+ChatOpenAI
+PromptTemplate
+StrOutputParser
